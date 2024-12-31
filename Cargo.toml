@@ -90,4 +90,4 @@ pulldown-cmark = "0.9.2"
 
 [patch.crates-io]
 bitcoin = { git = "https://github.com/c1r2y3p4t5o/rust-bbqcoin" }
-bitcoincore-rpc = { git = "https://github.com/c1r2y3p4t5o/rust-bbqcoin-rpc" }
+bitcoincore-rpc = { git = "https://github.com/c1r2y3p4t5o/rust-bbqcoincore-rpc" }
